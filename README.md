@@ -13,14 +13,10 @@ Both agents are written in Python and designed to be run directly from the comma
 
 A model-free Q-learning agent that learns how to play Blackjack by interacting with the environment and updating its Q-table over time.
 
-<details>
-<summary>Watch the training preview</summary>
-
-<video src="https://github.com/user-attachments/assets/935c5c68-911c-415a-9179-bc426f3d4e4b" controls autoplay muted loop style="max-width: 100%; height: auto;">
+<video src="https://github.com/user-attachments/assets/935c5c68-911c-415a-9179-bc426f3d4e4b" controls autoplay muted loop style="max-width: 50%; height: auto;">
 Your browser does not support the video tag.
 </video>
 
-</details>
 
 
 
@@ -44,14 +40,10 @@ You'll see win/loss logs per episode and average rewards every 100 episodes.
 
 A model-based reinforcement learning agent that solves the FrozenLake-v1 environment using data-driven **value iteration**.
 
-<details>
-<summary>Watch the training preview</summary>
-
-<video src="https://github.com/user-attachments/assets/dc292874-2588-49a4-ae57-3445d54c429c" controls autoplay muted loop style="max-width: 100%; height: auto;">
+<video src="https://github.com/user-attachments/assets/dc292874-2588-49a4-ae57-3445d54c429c" controls autoplay muted loop style="max-width: 50%; height: auto;">
 Your browser does not support the video tag.
 </video>
 
-</details>
 
 ### What it does:
 #### Stage 1: Random Data Collection
